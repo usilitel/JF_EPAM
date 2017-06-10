@@ -2,12 +2,9 @@ package javase01.t02;
 
 public class Task2 {
 
-    // количество элементов в последовательности
-    public static final int N=10;
-
-    // верхняя граница
-    public static final double E=0.1d;
-
+    // входные параметры
+    public static final int N=10; // количество элементов в последовательности
+    public static final double E=0.1d; // верхняя граница
 
 
     public static void main(String[] args) {
