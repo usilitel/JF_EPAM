@@ -25,9 +25,4 @@ public class Task3 {
         return Math.tan(2*x) - 3;
     };
 
-
-
-
-
-
 }
