@@ -19,7 +19,6 @@ public class Task3 {
         }
     }
 
-
     // вычисляем F(x) = tg(2x)-3
     public static double F(double x){
         return Math.tan(2*x) - 3;
