@@ -1,4 +1,4 @@
-package javase03.t03;
+package javase03_strings.t03;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -14,7 +14,7 @@ public class TextParser {
 
     public static void main(String[] args) throws IOException {
 
-        //String fileName = "src\\javase03\\t03\\Java.SE.03.Information handling_task_attachment.html";
+        //String fileName = "src\\javase03_strings\\t03\\Java.SE.03.Information handling_task_attachment.html";
         String fileName = "resources\\Java.SE.03.Information handling_task_attachment.html";
         String fileText = getFileText(fileName);
 
@@ -152,7 +152,7 @@ public class TextParser {
 /*
 
         // еще один рабочий вариант чтения файла
-        //String fileText = readUsingScanner("src\\javase03\\t03\\0.html");
+        //String fileText = readUsingScanner("src\\javase03_strings\\t03\\0.html");
 
     // читаем файл с помощью Scanner
     private static String readUsingScanner(String fileName) throws IOException {

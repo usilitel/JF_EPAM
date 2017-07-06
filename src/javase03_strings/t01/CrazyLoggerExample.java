@@ -1,7 +1,5 @@
-package javase03.t01;
+package javase03_strings.t01;
 
-import java.io.File;
-import java.util.Date;
 import java.util.Formatter;
 
 // тестируем класс CrazyLogger

@@ -1,4 +1,4 @@
-package javase03.t01;
+package javase03_strings.t01;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
